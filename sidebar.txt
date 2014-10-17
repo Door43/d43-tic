@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tic:home|Door43 (tic)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tic|d43-tic repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tic/archive/master.zip|d43-tic.zip]]
+
+**Recent Changes**
+{{changes>ns = tic}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/tic|Ethnologue data]]
+
